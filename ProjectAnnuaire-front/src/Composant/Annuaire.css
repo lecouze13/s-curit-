@@ -1,0 +1,14 @@
+.bouton_search {
+  background-color: white;
+  border: none;
+}
+
+.container_search\+title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 20px;
+  /* margin-left: -242px; */
+  width: 62%;
+}
